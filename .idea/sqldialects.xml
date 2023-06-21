@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/add-book.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/add-student.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/add-teacher.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/inc/tfunction.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/index.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/issued-books.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/login.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/members.php" dialect="GenericSQL" />
+  </component>
+</project>
