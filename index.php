@@ -8,7 +8,7 @@ include 'inc/connection.php';
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Library Management System</title>
+    <title>Growth Learning</title>
     <link rel="stylesheet" href="inc/css/bootstrap.min.css">
     <link rel="stylesheet" href="inc/css/fontawesome-all.min.css">
     <link rel="stylesheet" href="inc/css/pro1.css">
@@ -32,7 +32,7 @@ include 'inc/connection.php';
 <div class="login registration">
     <div class="wrapper">
         <div class="reg-header text-center">
-            <h2>Library management system</h2>
+            <h2>Growth Learning</h2>
             <div class="gap-30"></div>
             <div class="gap-30"></div>
         </div>

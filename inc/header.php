@@ -1,5 +1,5 @@
 <?php
-//session_start();
+session_start();
 error_reporting(E_ALL ^ E_NOTICE);
 
 include 'inc/connection.php';
@@ -12,7 +12,7 @@ $not = mysqli_num_rows($result);
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Library Management System</title>
+    <title>Growth Learning</title>
     <link rel="stylesheet" href="inc/css/bootstrap.min.css">
     <link rel="stylesheet" href="inc/css/bootstrap-select.min.css">
     <link rel="stylesheet" href="inc/css/fontawesome-all.min.css">
